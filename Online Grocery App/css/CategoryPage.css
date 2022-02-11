@@ -1,0 +1,38 @@
+﻿.categoryName {
+    margin: 10px 0px 10px 0px;
+}
+
+.ProductsDiv {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: visible;
+}
+
+    .div{
+        max-width: 270px;
+        flex-basis: 250px;
+        min-width: 230px;
+        flex-grow: 1;
+        
+    }
+
+.panel-class {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px)
+{
+    .div {
+        max-width: 210px;
+        flex-basis: 150px;
+        min-width: 100px;
+        flex-grow: 1;
+    }
+
+    .div img{
+        height: 150px;
+    }
+}

@@ -1,0 +1,64 @@
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\Online Grocery App.dll.config
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\Online Grocery App.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\Online Grocery App.pdb
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csc.exe
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csc.exe.config
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csc.rsp
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csi.exe
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csi.exe.config
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\csi.rsp
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.AppContext.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Console.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.IO.Compression.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Net.Http.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.ValueTuple.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\vbc.exe
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\vbc.exe.config
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\vbc.rsp
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\VBCSCompiler.exe
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\obj\Debug\Online Grocery App.csproj.AssemblyReference.cache
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\obj\Debug\Online Grocery App.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\obj\Debug\Online Grocery App.csproj.CopyComplete
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\obj\Debug\Online Grocery App.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\obj\Debug\Online Grocery App.pdb
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.Base.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.WebBrowser.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.WebEngine.dll
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.Base.xml
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.WebBrowser.xml
+C:\Users\Faisal\source\repos\Online Grocery App\Online Grocery App\bin\EO.WebEngine.xml

@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Online_Grocery_App.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Online Grocery</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="<%= ResolveUrl("~/style.css") %>" />
+    <link rel="stylesheet" href="<%= ResolveUrl("~/css/all.min.css") %>" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="topBar">Call us +923367966034</div>
+            <header>
+              <div id="topContent">
+                <div id="top1">
+                  <div id="bars">
+                    <i class="fas fa-bars fa-2x"></i>
+                  </div>
+                  <div id="logoDiv">
+                     <a href="<%= ResolveUrl("~/index.aspx") %>">
+                      <img id="logo"
+                      src="<%= ResolveUrl("~/Images/Grocery_Logo.png") %>"
+                      alt="Online Grocery Logo"
+                    />
+                     </a>
+                    
+                  </div>
+                  <div id="cross" class="hideCross">
+                    <i class="far fa-times-circle fa-3x"></i>
+                  </div>
+                </div>
+
+                <div id="top2">
+                  <div id="searchDiv" runat="server">
+                    <input id="textboxInput" type="text" placeholder="Find your product" runat="server"/>
+                    
+                      <button type="button" onserverclick="BtnSearch" runat="server"><i class="fa fa-search" runat="server"></i></button>
+                  </div>
+
+                  <div id="cartDiv">
+                      <a href="<%= ResolveUrl("~/Pages/CartPage.aspx") %>">
+                          <i class="fa fa-shopping-cart"></i>
+                          <label id="cartLabel" runat="server">0</label>
+                      </a>
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div id="menu" class="hideMenu">
+                <ul>
+                  <li><a href="<%= ResolveUrl("~/Pages/CategoryPage.aspx?category=rice") %>">Rice</a></li>
+                  <li><a href="<%= ResolveUrl("~/Pages/CategoryPage.aspx?category=flour") %>">Flour</a></li>
+                  <li><a href="<%= ResolveUrl("~/Pages/CategoryPage.aspx?category=cooking oil") %>">Cooking Oil</a></li>
+                  <li><a href="<%= ResolveUrl("~/Pages/CategoryPage.aspx?category=banaspati ghee") %>">Banaspati Ghee</a></li>
+                </ul>
+              </div>
+            </header>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+
+            <footer>
+              <div id="footerMain">
+                <div id="footer1">
+                  <div id="footerAbout">
+                    <b>ABOUT US</b>
+                    <p>
+                      Our Site is the ultimate online marketplace which is established
+                      to provide trouble-free online shopping experience at your
+                      fingertips.
+                    </p>
+                  </div>
+                  <div id="footerFindUs">
+                    <b>Find US</b>
+                    <p>School Bazar Gaggoo Mandi, 0336-7966034</p>
+                  </div>
+                </div>
+                <div id="footer2">
+                  <ul>
+                    <li><b>FOOTER MENU</b></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Terms and Conditions</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">FAQ's</a></li>
+                    <li><a href="#">Delivery Details</a></li>
+                  </ul>
+                </div>
+                <div id="footer3">
+                  <b>FOLLOW US</b>
+                  <ul>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">Twitter</a></li>
+                  </ul>
+                </div>
+              </div>
+            </footer>
+        </div>
+
+        
+    </form>     
+    <script src="<%= ResolveUrl("~/app.js") %>"></script>
+</body>
+</html>
